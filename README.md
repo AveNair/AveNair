@@ -1,7 +1,6 @@
 ![Header](https://github.com/AveNair/AveNair/blob/main/assets/header.png)
 
-![Welcome](https://github.com/AveNair/AveNair/blob/main/assets/header1.jpg)
----
+## Welcome!
 
 - Programming language: Python, HTML, CSS.
 - Frameworks: Selenium Webdriver.
