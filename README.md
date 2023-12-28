@@ -14,5 +14,3 @@
 - **Methodologies:** Agile, Scrum, Kanban.
 - **Others technologies:** CMS, API, Bash, Git, Github, JSON, XML, HTTPs, SEO.
 - **Others:** Microsoft 365, Google docs, FinalCut, Photoshop, Lightroom, Premier Pro, Capcut, AutoCad, MidJourney, ChatGPT, Canva, Notion.
-
-QA manual
